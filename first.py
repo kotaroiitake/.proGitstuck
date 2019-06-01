@@ -1,2 +1,3 @@
-print('Hello World')
+#出力
+print('Hello dotpro')
 
